@@ -1,10 +1,19 @@
-- 👋 Hi, I’m @AriaHemin
-- 👀 I’m interested in science tech engineering and math (STEM) and philosophy espeacially epistemology field.
-- 🌱 I’m currently learning front end web app development.
-- 💞️ I’m looking to collaborate on anything useful to the world.
-- 📫 How to reach me :: email ariahemin@gmail.com
+<h1>Aria Hemin</h1>
+I am biomedical student at Qaiwan international university, but i am also a self taught web developer. I want to use and develop technology to solve human problems. I work maily in the front end of web development.
 
-<!---
-AriaHemin/AriaHemin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+```currently working on : setting up my portfolio on github```
+
+👀 I’m interested in 
+science tech engineering and math (STEM) 
+and philosophy espeacially epistemology field.
+
+📫 How to reach me :: email ariahemin@gmail.com
+
+languages and skills:
+1. html 
+2. css
+3. javascript
+4. typescript
+5. vue
+6. git/github
+7. linux
