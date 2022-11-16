@@ -9,7 +9,7 @@ and philosophy espeacially epistemology field.
 
 📫 How to reach me :: email ariahemin@gmail.com
 
-languages and skills:
+languages and skills::
 1. html 
 2. css
 3. javascript
