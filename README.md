@@ -1,5 +1,5 @@
 <h1>Aria Hemin</h1>
-I am biomedical engineering student at Qaiwan international university, but i am also a self taught web developer. I want to use and develop technology to solve human problems. I work maily in the front end of web development.
+I am biomedical engineering student at Qaiwan international university, but i am also a self taught web developer. I want to use and develop technology to solve human problems. I work mainly in the front end of web development.
 
 ```currently working on : setting up my portfolio on github```
 
