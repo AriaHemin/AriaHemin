@@ -21,5 +21,5 @@ languages and skills:
 projects ::
 1. [rock paper scissors game](https://ariahemin.github.io/rock-paper-scissors-game/) | [code](https://github.com/AriaHemin/rock-paper-scissors-game)
 2. [landing page(odin project)](https://ariahemin.github.io/landing-page-1-op/) | [code](https://github.com/AriaHemin/landing-page-1-op)
-3. [micro projects collection](https://link-url-here.org) | [code](https://link-url-here.org)
+3. [micro projects collection]() | [code]()
 
