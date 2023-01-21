@@ -1,11 +1,11 @@
 <h1>Aria Hemin</h1>
-I am biomedical engineering student at Qaiwan international university, but i am also a self taught web developer. I want to use and develop technology to solve human problems. I work mainly in the front end of web development.
+I am pharmacy student at Qaiwan international university, but i am also a self taught web developer. I want to use and develop technology to solve human problems. I work mainly in the front end of web development.
 
-```currently working on : setting up my portfolio on github```
+```currently working on : curcit```
 
 👀 I’m interested in 
 science tech engineering and math (STEM) 
-and philosophy espeacially epistemology field.
+and philosophy espeacially epistemology field. and pharmacy
 
 📫 How to reach me :: email ariahemin@gmail.com
 
@@ -15,7 +15,8 @@ languages and skills::
 3. javascript
 4. typescript
 5. vue
-6. git/github
+6. react
+7. git/github
 
 
 projects ::
